@@ -12,6 +12,5 @@ It's ment to be a better alternative to Windows Search.
 ✅ Fast file search
 
 ## 🛠️ Tech Stack  
-- **C++ 20 and above**  
-- **SFML 2.6.0**
+- **C++ 20 and above** 
 - **Visual Studio 2022**
