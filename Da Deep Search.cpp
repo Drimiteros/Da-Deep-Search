@@ -16,6 +16,8 @@ int main() {
     vector<wstring>files_found;
     int iterations = 0;
     int files_found_count = 0;
+    int counter = 0;
+    int get_position = 0;
 
     wcout << L"Enter target file or directory: ";
     getline(wcin, target_file);
@@ -25,8 +27,22 @@ int main() {
     try {
         for (const auto& entry : fs::recursive_directory_iterator(root_path, fs::directory_options::skip_permission_denied)) {
             iterations++;
-            for (int i = 0;i < target_file.size(); i++) {
-                if (entry.path().filename().wstring().find(target_file[i]))
+            wstring ex = entry.path().filename().wstring();
+            //temp
+            for (int i = 0; i < target_file.size(); i++) {
+                for (int a = 0; a < ex.size(); a++) {
+                    if (target_file[i] == ex[a + get_position] && a + get_position <= ex.size()) {
+                        get_position = a + 1;
+                        counter++;
+                        continue;
+                    }
+                }
+            }
+            if (counter == target_file.size()) {
+                files_found.push_back(entry.path().wstring());
+                files_found_count++;
+                counter = 0;
+                get_position = 0;
             }
             if (entry.path().filename().wstring() == target_file) {
                 files_found.push_back(entry.path().wstring());
