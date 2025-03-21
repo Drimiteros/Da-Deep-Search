@@ -12,5 +12,5 @@ It's ment to be a better alternative to Windows Search.
 ✅ Fast file search
 
 ## 🛠️ Tech Stack  
-- **C++ 20 and above** 
+- **C++ 20** 
 - **Visual Studio 2022**
