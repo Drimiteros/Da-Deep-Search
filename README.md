@@ -11,6 +11,14 @@ It's ment to be a better alternative to Windows Search.
 ✅ Deep file search  
 ✅ Fast file search
 
+---
+
 ## 🛠️ Tech Stack  
-- **C++ 20** 
+- **C++ 17**
+- SFML library
 - **Visual Studio 2022**
+
+---
+
+## 🔗 Useful Links  
+- SFML Download - Link: https://www.sfml-dev.org/download/sfml/old-versions.php
