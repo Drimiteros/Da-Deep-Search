@@ -10,7 +10,7 @@ Searchbar::Searchbar() {
 
 void Searchbar::update(RenderWindow& window, wstring& search_bar_string) {
 	search_bar_text.setOrigin(search_bar_text.getLocalBounds().width / 2, 0);
-	search_bar_text.setPosition(window.getSize().x / 2, window.getSize().y / 2 - 400);
+	search_bar_text.setPosition(window.getSize().x / 2, window.getSize().y / 2 - 350);
 
 	if (search_bar_string.size() == 0)
 		search_bar_text.setString("Start typing...");

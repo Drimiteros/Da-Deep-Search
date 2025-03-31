@@ -1,9 +1,12 @@
 #pragma once
 #include <iostream>
+#define NOMINMAX
+#define WIN32_LEAN_AND_MEAN
+#include <Windows.h>
 #include <SFML/Graphics.hpp>
 #include "Input_events.h"
 #include "Searchbar.h"
-#include "Fetch_file.h"
+#include "Drive_explorer.h"
 
 using namespace std;
 using namespace sf;
@@ -17,15 +20,18 @@ private:
 	wstring search_bar_string;
 	bool start_search = false;
 	bool is_click_pressed = false;
-	int drive_offset = 0;
+	int scroll_value = 0;
 
 	RectangleShape cursor;
 	RectangleShape view_bounds;
 
+	HWND hwnd;
+	Clock window_state_clock;
+
 public:
 	Input_events input_events;
 	Searchbar searchbar;
-	Fetch_file fetch_file;
+	Drive_explorer drive_explorer;
 
 	App();
 	void events();
