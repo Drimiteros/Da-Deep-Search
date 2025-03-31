@@ -1,4 +1,4 @@
-# Da-Deep-Search (v.2.1) 🔎
+# Da-Deep-Search 🔎
 
 ### **Overview 🎯**
 Da Deep Search allows you to locate even the deepest files in your PC, FAST!  
