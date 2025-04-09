@@ -27,7 +27,7 @@ It's ment to be a better alternative to Windows Search.
 ---
 
 ## 🛠️ Tech Stack  
-- **C++ 17**
+- **C++ 20**
 - SFML 2.6.0 library
 - **Visual Studio 2022**
 
