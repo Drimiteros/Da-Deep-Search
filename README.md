@@ -2,7 +2,7 @@
 
 ### **Overview 🎯**
 Da Deep Search allows you to locate even the deepest files in your PC, FAST!  
-It's ment to be a better alternative to Windows Search.
+It's meant to be a better alternative to Windows Search.
 
 ---
 
