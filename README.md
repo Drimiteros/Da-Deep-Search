@@ -8,6 +8,7 @@ It's meant to be a better, faster alternative to Windows Search without giving y
 
 ## Features 📑
 
+* ✅ Quick access
 - ✅ Deep file search  
 - ✅ Fast file search
 
