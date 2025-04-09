@@ -4,6 +4,8 @@
 Da Deep Search allows you to locate even the deepest files in your PC. 
 It's meant to be a better, faster alternative to Windows Search without giving you annoying web results. 
 
+![Screenshot_1](https://github.com/user-attachments/assets/de2cf0c3-bc8c-4306-bf67-dbdeff81a620)
+
 ---
 
 ## Features 📑
