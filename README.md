@@ -16,25 +16,6 @@ It's meant to be a better, faster alternative to Windows Search without giving y
 - ✅ Deep file search  
 - ✅ Fast file search
 
-## 📝 To do
-- ### Search enhancements:
-1)	Cache system
-2)	Search by type
-3)	Search by size
-
-- ### UI improvements:
-1)	Show file size
-2)	Show file icon
-3)	Show file name
-4)	Autocomplete
-
-- ### Additional functionalities:
-1)	Delete file
-2)	Copy file / file path
-3)	Rename file
-4)	Favorites
-5)	Recents
-
 ---
 
 ## 💁 How to use:
@@ -59,3 +40,33 @@ It's meant to be a better, faster alternative to Windows Search without giving y
 
 ## 🔗 Useful Links  
 - SFML Download - Link: https://www.sfml-dev.org/download/sfml/old-versions.php
+
+---
+
+## 📝 To do
+- ### Search enhancements:
+`1)	Cache system`
+
+`2)	Search by type`
+
+`3)	Search by size`
+
+- ### UI improvements:
+`1)	Show file size`
+
+`2)	Show file icon`
+
+`3)	Show file name`
+
+`4)	Autocomplete`
+
+- ### Additional functionalities:
+`1)	Delete file`
+
+`2)	Copy file / file path`
+
+`3)	Rename file`
+
+`4)	Favorites`
+
+`5)	Recents`
