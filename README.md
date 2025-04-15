@@ -30,13 +30,13 @@ Da Deep Search is a minimal, high performance file exploration tool designed for
 
 ---
 
+## 🔗 Useful Links  
+- SFML Download - Link: https://www.sfml-dev.org/download/sfml/old-versions.php
+- Website - Link: empty
+
+---
+
 ## 🛠️ Tech Stack  
 - **C++ 20**
 - SFML 2.6.0 library
 - **Visual Studio 2022**
-
----
-
-## 🔗 Useful Links  
-- SFML Download - Link: https://www.sfml-dev.org/download/sfml/old-versions.php
-- Website - Link: empty
