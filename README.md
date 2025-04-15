@@ -3,17 +3,15 @@
 ### **Overview 🎯**
 Da Deep Search is a minimal, high performance file exploration tool designed for fast file discovery on your PC. It's a better alternative to the default Windows Search! It offers quick access to files and provides detailed information such as file name, size, path, and more.
 
-`Example of the app in action`
-
-![Screenshot_1](https://github.com/user-attachments/assets/de2cf0c3-bc8c-4306-bf67-dbdeff81a620)
-
----
-
 ## 📑 Features
 
 - ✅ Quick access
 - ✅ Deep file search  
 - ✅ Fast file search
+
+`Example of the app in action`
+
+![Screenshot_1](https://github.com/user-attachments/assets/de2cf0c3-bc8c-4306-bf67-dbdeff81a620)
 
 ---
 
