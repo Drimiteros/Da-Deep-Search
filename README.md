@@ -1,8 +1,7 @@
 # Da-Deep-Search 🔎
 
 ### **Overview 🎯**
-Da Deep Search allows you to locate even the deepest files in your PC. 
-It's meant to be a better, faster alternative to Windows Search without giving you annoying web results. 
+Da Deep Search is a minimal, high performance file exploration tool designed for fast file discovery on your PC. It's a better alternative to the default Windows Search! It offers quick access to files and provides detailed information such as file name, size, path, and more.
 
 `Example of the app in action`
 
