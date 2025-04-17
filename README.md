@@ -14,7 +14,7 @@ Da Deep Search is a minimal, high performance file exploration tool designed for
 
 `Example of the app in action`
 
-![Screenshot_1](https://github.com/user-attachments/assets/de2cf0c3-bc8c-4306-bf67-dbdeff81a620)
+![image1](https://github.com/user-attachments/assets/e31b90e5-fe11-4be9-9d9b-8584f39d5439)
 
 ---
 
