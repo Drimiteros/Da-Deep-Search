@@ -1,0 +1,25 @@
+﻿
+📝 To do:
+
+- Search enhancements:
+	1) [ ]	Cache system
+	2) [ ]	Search by type
+	3) [ ]	Search by size
+	4) [ ]	Add a stop search button
+
+- UI improvements:
+	1) [ ]	Show file size
+	2) [ ]	Show file icon
+	3) [ ]	Show file name
+	4) [ ]	Autocomplete
+
+- Additional functionalities:
+	1) [ ]	Delete file
+	2) [ ]	Copy file / file path
+	3) [ ]	Rename file
+	4) [ ]	Favorites
+	5) [ ]	Recents
+
+- Code improvements:
+	1) [ ]	Prevent the user from typing when searching	is underway
+	2) [x]	Fix "Unhandled exception: out of bounds access" error to found_files_text_vector when drawing it
