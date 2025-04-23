@@ -6,6 +6,9 @@
 ## **🎯Overview**
 Da Deep Search is a minimal, high performance file exploration tool designed for fast file discovery on your PC. It's a better alternative to the default Windows Search! It offers quick access to files and provides detailed information such as file name, size, path, and more. It's very early under development and there are plans to expand it to a complete file explorer tool.
 
+## **⚡Performance**
+Latests, personal, results show that Da Deep Search is up to 95.65% faster than the default Windows 11 search.
+
 ## 📑 Features
 
 - ✅ Quick access
@@ -33,7 +36,6 @@ Da Deep Search is a minimal, high performance file exploration tool designed for
 
 ## 🔗 Useful Links  
 - SFML Download - Link: https://www.sfml-dev.org/download/sfml/old-versions.php
-- Website - Link: https://drimiteros.github.io/Da-Deep-Search-Website/
 
 ---
 
