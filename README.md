@@ -1,8 +1,5 @@
 # Da-Deep-Search 🔎
 
-## **🌍 Website**
-- Website - Link: https://drimiteros.github.io/Da-Deep-Search-Website/
-
 ## **🎯 Overview**
 Da Deep Search is a minimal, high performance file exploration tool designed for fast file discovery on your PC. It's a better alternative to the default Windows Search! It offers quick access to files and provides detailed information such as file name, size, path, and more. It's very early under development and there are plans to expand it to a complete file explorer tool.
 
