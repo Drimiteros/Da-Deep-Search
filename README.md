@@ -17,7 +17,7 @@ Latests, personal, results show that Da Deep Search is up to **98.89% or 90 time
 
 `Example of the app in action`
 
-![image1](https://github.com/user-attachments/assets/1d783d05-91ba-4dfb-bf26-d7cc13497dd0)
+![Screenshot_1](https://github.com/user-attachments/assets/66c20523-5e4c-4e98-8b2c-b84eb11036c5)
 
 ---
 
