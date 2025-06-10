@@ -7,7 +7,7 @@ Versions over v.2.1_2 will use a different license than gpl-3.0. Learn more [her
 Da Deep Search is a minimal, high performance file exploration tool designed for fast file discovery on your PC. It's a better alternative to the default Windows Search! It offers quick access to files and provides detailed information such as file name, size, path, and more. It's very early under development and there are plans to expand it to a complete file explorer tool.
 
 ## **⚡ Performance**
-Latests, personal, results show that Da Deep Search is up to **98.89% or 90 times faster** than the default Windows 11 search at locating a file, with ~99% success rate.
+Latests, personal, results show that Da Deep Search is up to **96.67% faster** than the default Windows 11 search at locating a file, with ~100% success rate.
 
 ## 📑 Features
 
