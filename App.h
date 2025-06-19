@@ -14,7 +14,7 @@ using namespace sf;
 class App
 {
 private:
-	string version = "Da Deep Search v.2.1";
+	string version = "Da Deep Search v.2.1_2";
 	RenderWindow window;
 	Event event;
 	wstring search_bar_string;
